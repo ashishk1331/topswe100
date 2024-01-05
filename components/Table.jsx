@@ -1,6 +1,17 @@
+"use client";
 import { getData } from "./data";
+import { useStore } from "../store/useTasks";
+import { useEffect, useState } from "react";
 
 function Row(props) {
+  const done = useStore((state) => state.done);
+  const addID = useStore((state) => state.addID);
+  const removeID = useStore((state) => state.removeID);
+
+  const [ids, setIDS] = useState([]);
+  useEffect(() => {
+    setIDS(done);
+  }, [done]);
   let { number, name: title, lc_link: url } = props;
   return (
     <tr>
@@ -10,6 +21,14 @@ function Row(props) {
             id="hs-table-checkbox-1"
             type="checkbox"
             className="border-gray-200 rounded text-blue-600 focus:ring-blue-500 dark:bg-gray-800 dark:border-gray-700 dark:checked:bg-blue-500 dark:checked:border-blue-500 dark:focus:ring-offset-gray-800"
+            checked={ids.includes(number)}
+            onChange={(e) => {
+              if (e.target.checked) {
+                addID(number);
+              } else {
+                removeID(number);
+              }
+            }}
           />
           <label htmlFor="hs-table-checkbox-1" className="sr-only">
             Checkbox
