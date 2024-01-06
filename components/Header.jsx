@@ -15,7 +15,7 @@ export default function (props) {
 				<div className="bg-gradient-to-r from-violet-300/50 to-purple-100 blur-3xl w-[25rem] h-[44rem] rotate-[-60deg] transform -translate-x-[10rem] dark:from-violet-900/50 dark:to-purple-900" />
 				<div className="bg-gradient-to-tl from-blue-50 via-blue-100 to-blue-50 blur-3xl w-[90rem] h-[50rem] rounded-fulls origin-top-left -rotate-12 -translate-x-[15rem] dark:from-indigo-900/70 dark:via-indigo-900/70 dark:to-blue-900/70" />
 			</div>
-			<div className="w-full">
+			<div className="relative w-fit">
 				<div className="max-w-[85rem] mx-auto px-4 sm:px-6 lg:px-8 py-20 xl:mb-16">
 					<div className="relative mx-auto max-w-4xl grid space-y-5 sm:space-y-10">
 						{/* Title */}
