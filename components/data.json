@@ -1,0 +1,3139 @@
+[
+    {
+        "name": "fizz buzz",
+        "difficulty": "easy",
+        "tags": [
+            "math",
+            "string",
+            "simulation"
+        ],
+        "ID": 412,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "1.2M",
+            "totalSubmission": "1.6M",
+            "totalAcceptedRaw": 1152492,
+            "totalSubmissionRaw": 1612748,
+            "acRate": "71.5%"
+        },
+        "url": "https://leetcode.com/problems/fizz-buzz"
+    },
+    {
+        "name": "two sum",
+        "difficulty": "easy",
+        "tags": [
+            "array",
+            "hash-table"
+        ],
+        "ID": 1,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "11.9M",
+            "totalSubmission": "23.2M",
+            "totalAcceptedRaw": 11929189,
+            "totalSubmissionRaw": 23159167,
+            "acRate": "51.5%"
+        },
+        "url": "https://leetcode.com/problems/two-sum"
+    },
+    {
+        "name": "valid anagram",
+        "difficulty": "easy",
+        "tags": [
+            "hash-table",
+            "string",
+            "sorting"
+        ],
+        "ID": 242,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "3.1M",
+            "totalSubmission": "4.8M",
+            "totalAcceptedRaw": 3072711,
+            "totalSubmissionRaw": 4796988,
+            "acRate": "64.1%"
+        },
+        "url": "https://leetcode.com/problems/valid-anagram"
+    },
+    {
+        "name": "reverse string",
+        "difficulty": "easy",
+        "tags": [
+            "two-pointers",
+            "string"
+        ],
+        "ID": 344,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "2.4M",
+            "totalSubmission": "3M",
+            "totalAcceptedRaw": 2362609,
+            "totalSubmissionRaw": 3049764,
+            "acRate": "77.5%"
+        },
+        "url": "https://leetcode.com/problems/reverse-string"
+    },
+    {
+        "name": "valid palindrome",
+        "difficulty": "easy",
+        "tags": [
+            "two-pointers",
+            "string"
+        ],
+        "ID": 125,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "2.6M",
+            "totalSubmission": "5.6M",
+            "totalAcceptedRaw": 2597059,
+            "totalSubmissionRaw": 5582897,
+            "acRate": "46.5%"
+        },
+        "url": "https://leetcode.com/problems/valid-palindrome"
+    },
+    {
+        "name": "longest common prefix",
+        "difficulty": "easy",
+        "tags": [
+            "string",
+            "trie"
+        ],
+        "ID": 14,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "3M",
+            "totalSubmission": "7.1M",
+            "totalAcceptedRaw": 2984739,
+            "totalSubmissionRaw": 7085947,
+            "acRate": "42.1%"
+        },
+        "url": "https://leetcode.com/problems/longest-common-prefix"
+    },
+    {
+        "name": "power of three",
+        "difficulty": "easy",
+        "tags": [
+            "math",
+            "recursion"
+        ],
+        "ID": 326,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "778.9K",
+            "totalSubmission": "1.7M",
+            "totalAcceptedRaw": 778853,
+            "totalSubmissionRaw": 1686338,
+            "acRate": "46.2%"
+        },
+        "url": "https://leetcode.com/problems/power-of-three"
+    },
+    {
+        "name": "number of 1 bits",
+        "difficulty": "easy",
+        "tags": [
+            "divide-and-conquer",
+            "bit-manipulation"
+        ],
+        "ID": 191,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "1.4M",
+            "totalSubmission": "1.9M",
+            "totalAcceptedRaw": 1361209,
+            "totalSubmissionRaw": 1944609,
+            "acRate": "70.0%"
+        },
+        "url": "https://leetcode.com/problems/number-of-1-bits"
+    },
+    {
+        "name": "range sum query - immutable",
+        "difficulty": "easy",
+        "tags": [
+            "array",
+            "design",
+            "prefix-sum"
+        ],
+        "ID": 303,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "496.8K",
+            "totalSubmission": "798.5K",
+            "totalAcceptedRaw": 496843,
+            "totalSubmissionRaw": 798506,
+            "acRate": "62.2%"
+        },
+        "url": "https://leetcode.com/problems/range-sum-query-immutable"
+    },
+    {
+        "name": "fibonacci number",
+        "difficulty": "easy",
+        "tags": [
+            "math",
+            "dynamic-programming",
+            "recursion",
+            "memoization"
+        ],
+        "ID": 1013,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "1.6M",
+            "totalSubmission": "2.3M",
+            "totalAcceptedRaw": 1619137,
+            "totalSubmissionRaw": 2293403,
+            "acRate": "70.6%"
+        },
+        "url": "https://leetcode.com/problems/fibonacci-number"
+    },
+    {
+        "name": "climbing stairs",
+        "difficulty": "easy",
+        "tags": [
+            "math",
+            "dynamic-programming",
+            "memoization"
+        ],
+        "ID": 70,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "2.9M",
+            "totalSubmission": "5.5M",
+            "totalAcceptedRaw": 2855779,
+            "totalSubmissionRaw": 5462762,
+            "acRate": "52.3%"
+        },
+        "url": "https://leetcode.com/problems/climbing-stairs"
+    },
+    {
+        "name": "min cost climbing stairs",
+        "difficulty": "easy",
+        "tags": [
+            "array",
+            "dynamic-programming"
+        ],
+        "ID": 747,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "1.1M",
+            "totalSubmission": "1.6M",
+            "totalAcceptedRaw": 1070278,
+            "totalSubmissionRaw": 1638811,
+            "acRate": "65.3%"
+        },
+        "url": "https://leetcode.com/problems/min-cost-climbing-stairs"
+    },
+    {
+        "name": "best time to buy and sell stock",
+        "difficulty": "easy",
+        "tags": [
+            "array",
+            "dynamic-programming"
+        ],
+        "ID": 121,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "4.2M",
+            "totalSubmission": "7.8M",
+            "totalAcceptedRaw": 4164198,
+            "totalSubmissionRaw": 7786022,
+            "acRate": "53.5%"
+        },
+        "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock"
+    },
+    {
+        "name": "binary tree inorder traversal",
+        "difficulty": "easy",
+        "tags": [
+            "stack",
+            "tree",
+            "depth-first-search",
+            "binary-tree"
+        ],
+        "ID": 94,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "2.4M",
+            "totalSubmission": "3.1M",
+            "totalAcceptedRaw": 2361338,
+            "totalSubmissionRaw": 3122657,
+            "acRate": "75.6%"
+        },
+        "url": "https://leetcode.com/problems/binary-tree-inorder-traversal"
+    },
+    {
+        "name": "invert binary tree",
+        "difficulty": "easy",
+        "tags": [
+            "tree",
+            "depth-first-search",
+            "breadth-first-search",
+            "binary-tree"
+        ],
+        "ID": 226,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "1.9M",
+            "totalSubmission": "2.5M",
+            "totalAcceptedRaw": 1879890,
+            "totalSubmissionRaw": 2462381,
+            "acRate": "76.3%"
+        },
+        "url": "https://leetcode.com/problems/invert-binary-tree"
+    },
+    {
+        "name": "symmetric tree",
+        "difficulty": "easy",
+        "tags": [
+            "tree",
+            "depth-first-search",
+            "breadth-first-search",
+            "binary-tree"
+        ],
+        "ID": 101,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "1.9M",
+            "totalSubmission": "3.3M",
+            "totalAcceptedRaw": 1860017,
+            "totalSubmissionRaw": 3331239,
+            "acRate": "55.8%"
+        },
+        "url": "https://leetcode.com/problems/symmetric-tree"
+    },
+    {
+        "name": "maximum depth of binary tree",
+        "difficulty": "easy",
+        "tags": [
+            "tree",
+            "depth-first-search",
+            "breadth-first-search",
+            "binary-tree"
+        ],
+        "ID": 104,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "2.8M",
+            "totalSubmission": "3.7M",
+            "totalAcceptedRaw": 2805334,
+            "totalSubmissionRaw": 3745828,
+            "acRate": "74.9%"
+        },
+        "url": "https://leetcode.com/problems/maximum-depth-of-binary-tree"
+    },
+    {
+        "name": "same tree",
+        "difficulty": "easy",
+        "tags": [
+            "tree",
+            "depth-first-search",
+            "breadth-first-search",
+            "binary-tree"
+        ],
+        "ID": 100,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "1.9M",
+            "totalSubmission": "3.1M",
+            "totalAcceptedRaw": 1860568,
+            "totalSubmissionRaw": 3079033,
+            "acRate": "60.4%"
+        },
+        "url": "https://leetcode.com/problems/same-tree"
+    },
+    {
+        "name": "path sum",
+        "difficulty": "easy",
+        "tags": [
+            "tree",
+            "depth-first-search",
+            "breadth-first-search",
+            "binary-tree"
+        ],
+        "ID": 112,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "1.3M",
+            "totalSubmission": "2.7M",
+            "totalAcceptedRaw": 1344648,
+            "totalSubmissionRaw": 2706678,
+            "acRate": "49.7%"
+        },
+        "url": "https://leetcode.com/problems/path-sum"
+    },
+    {
+        "name": "minimum depth of binary tree",
+        "difficulty": "easy",
+        "tags": [
+            "tree",
+            "depth-first-search",
+            "breadth-first-search",
+            "binary-tree"
+        ],
+        "ID": 111,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "1.1M",
+            "totalSubmission": "2.4M",
+            "totalAcceptedRaw": 1123465,
+            "totalSubmissionRaw": 2381059,
+            "acRate": "47.2%"
+        },
+        "url": "https://leetcode.com/problems/minimum-depth-of-binary-tree"
+    },
+    {
+        "name": "validate binary search tree",
+        "difficulty": "medium",
+        "tags": [
+            "tree",
+            "depth-first-search",
+            "binary-search-tree",
+            "binary-tree"
+        ],
+        "ID": 98,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "2.2M",
+            "totalSubmission": "6.7M",
+            "totalAcceptedRaw": 2185100,
+            "totalSubmissionRaw": 6701445,
+            "acRate": "32.6%"
+        },
+        "url": "https://leetcode.com/problems/validate-binary-search-tree"
+    },
+    {
+        "name": "reverse linked list",
+        "difficulty": "easy",
+        "tags": [
+            "linked-list",
+            "recursion"
+        ],
+        "ID": 206,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "3.7M",
+            "totalSubmission": "4.9M",
+            "totalAcceptedRaw": 3678751,
+            "totalSubmissionRaw": 4880008,
+            "acRate": "75.4%"
+        },
+        "url": "https://leetcode.com/problems/reverse-linked-list"
+    },
+    {
+        "name": "middle of the linked list",
+        "difficulty": "easy",
+        "tags": [
+            "linked-list",
+            "two-pointers"
+        ],
+        "ID": 908,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "1.6M",
+            "totalSubmission": "2.1M",
+            "totalAcceptedRaw": 1625267,
+            "totalSubmissionRaw": 2109574,
+            "acRate": "77.0%"
+        },
+        "url": "https://leetcode.com/problems/middle-of-the-linked-list"
+    },
+    {
+        "name": "binary tree level order traversal",
+        "difficulty": "medium",
+        "tags": [
+            "tree",
+            "breadth-first-search",
+            "binary-tree"
+        ],
+        "ID": 102,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "2.1M",
+            "totalSubmission": "3.1M",
+            "totalAcceptedRaw": 2066341,
+            "totalSubmissionRaw": 3111891,
+            "acRate": "66.4%"
+        },
+        "url": "https://leetcode.com/problems/binary-tree-level-order-traversal"
+    },
+    {
+        "name": "find if path exists in graph",
+        "difficulty": "easy",
+        "tags": [
+            "depth-first-search",
+            "breadth-first-search",
+            "union-find",
+            "graph"
+        ],
+        "ID": 2121,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "294K",
+            "totalSubmission": "569.7K",
+            "totalAcceptedRaw": 293954,
+            "totalSubmissionRaw": 569737,
+            "acRate": "51.6%"
+        },
+        "url": "https://leetcode.com/problems/find-if-path-exists-in-graph"
+    },
+    {
+        "name": "number of islands",
+        "difficulty": "medium",
+        "tags": [
+            "array",
+            "depth-first-search",
+            "breadth-first-search",
+            "union-find",
+            "matrix"
+        ],
+        "ID": 200,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "2.4M",
+            "totalSubmission": "4.2M",
+            "totalAcceptedRaw": 2443454,
+            "totalSubmissionRaw": 4191942,
+            "acRate": "58.3%"
+        },
+        "url": "https://leetcode.com/problems/number-of-islands"
+    },
+    {
+        "name": "max area of island",
+        "difficulty": "medium",
+        "tags": [
+            "array",
+            "depth-first-search",
+            "breadth-first-search",
+            "union-find",
+            "matrix"
+        ],
+        "ID": 695,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "802.8K",
+            "totalSubmission": "1.1M",
+            "totalAcceptedRaw": 802782,
+            "totalSubmissionRaw": 1117473,
+            "acRate": "71.8%"
+        },
+        "url": "https://leetcode.com/problems/max-area-of-island"
+    },
+    {
+        "name": "count sub islands",
+        "difficulty": "medium",
+        "tags": [
+            "array",
+            "depth-first-search",
+            "breadth-first-search",
+            "union-find",
+            "matrix"
+        ],
+        "ID": 2035,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "80.3K",
+            "totalSubmission": "119.3K",
+            "totalAcceptedRaw": 80294,
+            "totalSubmissionRaw": 119261,
+            "acRate": "67.3%"
+        },
+        "url": "https://leetcode.com/problems/count-sub-islands"
+    },
+    {
+        "name": "valid parentheses",
+        "difficulty": "easy",
+        "tags": [
+            "string",
+            "stack"
+        ],
+        "ID": 20,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "4.2M",
+            "totalSubmission": "10.3M",
+            "totalAcceptedRaw": 4150222,
+            "totalSubmissionRaw": 10285285,
+            "acRate": "40.4%"
+        },
+        "url": "https://leetcode.com/problems/valid-parentheses"
+    },
+    {
+        "name": "product of array except self",
+        "difficulty": "medium",
+        "tags": [
+            "array",
+            "prefix-sum"
+        ],
+        "ID": 238,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "2.2M",
+            "totalSubmission": "3.3M",
+            "totalAcceptedRaw": 2165909,
+            "totalSubmissionRaw": 3322213,
+            "acRate": "65.2%"
+        },
+        "url": "https://leetcode.com/problems/product-of-array-except-self"
+    },
+    {
+        "name": "binary search",
+        "difficulty": "easy",
+        "tags": [
+            "array",
+            "binary-search"
+        ],
+        "ID": 792,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "2.2M",
+            "totalSubmission": "3.8M",
+            "totalAcceptedRaw": 2176819,
+            "totalSubmissionRaw": 3819471,
+            "acRate": "57.0%"
+        },
+        "url": "https://leetcode.com/problems/binary-search"
+    },
+    {
+        "name": "minimum add to make parentheses valid",
+        "difficulty": "medium",
+        "tags": [
+            "string",
+            "stack",
+            "greedy"
+        ],
+        "ID": 957,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "301.9K",
+            "totalSubmission": "402.1K",
+            "totalAcceptedRaw": 301888,
+            "totalSubmissionRaw": 402117,
+            "acRate": "75.1%"
+        },
+        "url": "https://leetcode.com/problems/minimum-add-to-make-parentheses-valid"
+    },
+    {
+        "name": "longest palindromic substring",
+        "difficulty": "medium",
+        "tags": [
+            "string",
+            "dynamic-programming"
+        ],
+        "ID": 5,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "2.8M",
+            "totalSubmission": "8.5M",
+            "totalAcceptedRaw": 2842332,
+            "totalSubmissionRaw": 8491847,
+            "acRate": "33.5%"
+        },
+        "url": "https://leetcode.com/problems/longest-palindromic-substring"
+    },
+    {
+        "name": "two sum ii - input array is sorted",
+        "difficulty": "medium",
+        "tags": [
+            "array",
+            "two-pointers",
+            "binary-search"
+        ],
+        "ID": 167,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "1.8M",
+            "totalSubmission": "3M",
+            "totalAcceptedRaw": 1809738,
+            "totalSubmissionRaw": 2979221,
+            "acRate": "60.7%"
+        },
+        "url": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted"
+    },
+    {
+        "name": "container with most water",
+        "difficulty": "medium",
+        "tags": [
+            "array",
+            "two-pointers",
+            "greedy"
+        ],
+        "ID": 11,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "2.6M",
+            "totalSubmission": "4.8M",
+            "totalAcceptedRaw": 2633601,
+            "totalSubmissionRaw": 4821442,
+            "acRate": "54.6%"
+        },
+        "url": "https://leetcode.com/problems/container-with-most-water"
+    },
+    {
+        "name": "3sum",
+        "difficulty": "medium",
+        "tags": [
+            "array",
+            "two-pointers",
+            "sorting"
+        ],
+        "ID": 15,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "3.2M",
+            "totalSubmission": "9.5M",
+            "totalAcceptedRaw": 3211393,
+            "totalSubmissionRaw": 9464165,
+            "acRate": "33.9%"
+        },
+        "url": "https://leetcode.com/problems/3sum"
+    },
+    {
+        "name": "group anagrams",
+        "difficulty": "medium",
+        "tags": [
+            "array",
+            "hash-table",
+            "string",
+            "sorting"
+        ],
+        "ID": 49,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "2.5M",
+            "totalSubmission": "3.7M",
+            "totalAcceptedRaw": 2463643,
+            "totalSubmissionRaw": 3653894,
+            "acRate": "67.4%"
+        },
+        "url": "https://leetcode.com/problems/group-anagrams"
+    },
+    {
+        "name": "kth largest element in an array",
+        "difficulty": "medium",
+        "tags": [
+            "array",
+            "divide-and-conquer",
+            "sorting",
+            "heap-priority-queue",
+            "quickselect"
+        ],
+        "ID": 215,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "2.1M",
+            "totalSubmission": "3.2M",
+            "totalAcceptedRaw": 2115598,
+            "totalSubmissionRaw": 3164039,
+            "acRate": "66.9%"
+        },
+        "url": "https://leetcode.com/problems/kth-largest-element-in-an-array"
+    },
+    {
+        "name": "k closest points to origin",
+        "difficulty": "medium",
+        "tags": [
+            "array",
+            "math",
+            "divide-and-conquer",
+            "geometry",
+            "sorting",
+            "heap-priority-queue",
+            "quickselect"
+        ],
+        "ID": 1014,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "1.1M",
+            "totalSubmission": "1.7M",
+            "totalAcceptedRaw": 1107426,
+            "totalSubmissionRaw": 1676885,
+            "acRate": "66.0%"
+        },
+        "url": "https://leetcode.com/problems/k-closest-points-to-origin"
+    },
+    {
+        "name": "insert delete getrandom o(1)",
+        "difficulty": "medium",
+        "tags": [
+            "array",
+            "hash-table",
+            "math",
+            "design",
+            "randomized"
+        ],
+        "ID": 380,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "737.2K",
+            "totalSubmission": "1.4M",
+            "totalAcceptedRaw": 737159,
+            "totalSubmissionRaw": 1393683,
+            "acRate": "52.9%"
+        },
+        "url": "https://leetcode.com/problems/insert-delete-getrandom-o1"
+    },
+    {
+        "name": "first bad version",
+        "difficulty": "easy",
+        "tags": [
+            "binary-search",
+            "interactive"
+        ],
+        "ID": 278,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "1.6M",
+            "totalSubmission": "3.7M",
+            "totalAcceptedRaw": 1611254,
+            "totalSubmissionRaw": 3658083,
+            "acRate": "44.0%"
+        },
+        "url": "https://leetcode.com/problems/first-bad-version"
+    },
+    {
+        "name": "find peak element",
+        "difficulty": "medium",
+        "tags": [
+            "array",
+            "binary-search"
+        ],
+        "ID": 162,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "1.2M",
+            "totalSubmission": "2.7M",
+            "totalAcceptedRaw": 1224605,
+            "totalSubmissionRaw": 2671817,
+            "acRate": "45.8%"
+        },
+        "url": "https://leetcode.com/problems/find-peak-element"
+    },
+    {
+        "name": "sqrt(x)",
+        "difficulty": "easy",
+        "tags": [
+            "math",
+            "binary-search"
+        ],
+        "ID": 69,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "1.8M",
+            "totalSubmission": "4.6M",
+            "totalAcceptedRaw": 1775064,
+            "totalSubmissionRaw": 4635234,
+            "acRate": "38.3%"
+        },
+        "url": "https://leetcode.com/problems/sqrtx"
+    },
+    {
+        "name": "koko eating bananas",
+        "difficulty": "medium",
+        "tags": [
+            "array",
+            "binary-search"
+        ],
+        "ID": 907,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "533.8K",
+            "totalSubmission": "1.1M",
+            "totalAcceptedRaw": 533771,
+            "totalSubmissionRaw": 1083044,
+            "acRate": "49.3%"
+        },
+        "url": "https://leetcode.com/problems/koko-eating-bananas"
+    },
+    {
+        "name": "subarray sum equals k",
+        "difficulty": "medium",
+        "tags": [
+            "array",
+            "hash-table",
+            "prefix-sum"
+        ],
+        "ID": 560,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "1.1M",
+            "totalSubmission": "2.6M",
+            "totalAcceptedRaw": 1120314,
+            "totalSubmissionRaw": 2589656,
+            "acRate": "43.3%"
+        },
+        "url": "https://leetcode.com/problems/subarray-sum-equals-k"
+    },
+    {
+        "name": "continuous subarray sum",
+        "difficulty": "medium",
+        "tags": [
+            "array",
+            "hash-table",
+            "math",
+            "prefix-sum"
+        ],
+        "ID": 523,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "430.8K",
+            "totalSubmission": "1.5M",
+            "totalAcceptedRaw": 430788,
+            "totalSubmissionRaw": 1500182,
+            "acRate": "28.7%"
+        },
+        "url": "https://leetcode.com/problems/continuous-subarray-sum"
+    },
+    {
+        "name": "count number of nice subarrays",
+        "difficulty": "medium",
+        "tags": [
+            "array",
+            "hash-table",
+            "math",
+            "sliding-window"
+        ],
+        "ID": 1370,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "110.8K",
+            "totalSubmission": "172.8K",
+            "totalAcceptedRaw": 110767,
+            "totalSubmissionRaw": 172757,
+            "acRate": "64.1%"
+        },
+        "url": "https://leetcode.com/problems/count-number-of-nice-subarrays"
+    },
+    {
+        "name": "clone graph",
+        "difficulty": "medium",
+        "tags": [
+            "hash-table",
+            "depth-first-search",
+            "breadth-first-search",
+            "graph"
+        ],
+        "ID": 133,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "1.1M",
+            "totalSubmission": "2M",
+            "totalAcceptedRaw": 1139169,
+            "totalSubmissionRaw": 2035023,
+            "acRate": "56.0%"
+        },
+        "url": "https://leetcode.com/problems/clone-graph"
+    },
+    {
+        "name": "copy list with random pointer",
+        "difficulty": "medium",
+        "tags": [
+            "hash-table",
+            "linked-list"
+        ],
+        "ID": 138,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "1.2M",
+            "totalSubmission": "2.1M",
+            "totalAcceptedRaw": 1156843,
+            "totalSubmissionRaw": 2101668,
+            "acRate": "55.0%"
+        },
+        "url": "https://leetcode.com/problems/copy-list-with-random-pointer"
+    },
+    {
+        "name": "is graph bipartite?",
+        "difficulty": "medium",
+        "tags": [
+            "depth-first-search",
+            "breadth-first-search",
+            "union-find",
+            "graph"
+        ],
+        "ID": 801,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "518.6K",
+            "totalSubmission": "938.1K",
+            "totalAcceptedRaw": 518582,
+            "totalSubmissionRaw": 938143,
+            "acRate": "55.3%"
+        },
+        "url": "https://leetcode.com/problems/is-graph-bipartite"
+    },
+    {
+        "name": "evaluate division",
+        "difficulty": "medium",
+        "tags": [
+            "array",
+            "depth-first-search",
+            "breadth-first-search",
+            "union-find",
+            "graph",
+            "shortest-path"
+        ],
+        "ID": 399,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "432.3K",
+            "totalSubmission": "703.3K",
+            "totalAcceptedRaw": 432346,
+            "totalSubmissionRaw": 703312,
+            "acRate": "61.5%"
+        },
+        "url": "https://leetcode.com/problems/evaluate-division"
+    },
+    {
+        "name": "maximum subarray",
+        "difficulty": "medium",
+        "tags": [
+            "array",
+            "divide-and-conquer",
+            "dynamic-programming"
+        ],
+        "ID": 53,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "3.6M",
+            "totalSubmission": "7.1M",
+            "totalAcceptedRaw": 3608954,
+            "totalSubmissionRaw": 7142193,
+            "acRate": "50.5%"
+        },
+        "url": "https://leetcode.com/problems/maximum-subarray"
+    },
+    {
+        "name": "maximum product subarray",
+        "difficulty": "medium",
+        "tags": [
+            "array",
+            "dynamic-programming"
+        ],
+        "ID": 152,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "1.2M",
+            "totalSubmission": "3.4M",
+            "totalAcceptedRaw": 1172693,
+            "totalSubmissionRaw": 3359323,
+            "acRate": "34.9%"
+        },
+        "url": "https://leetcode.com/problems/maximum-product-subarray"
+    },
+    {
+        "name": "unique paths",
+        "difficulty": "medium",
+        "tags": [
+            "math",
+            "dynamic-programming",
+            "combinatorics"
+        ],
+        "ID": 62,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "1.7M",
+            "totalSubmission": "2.6M",
+            "totalAcceptedRaw": 1688370,
+            "totalSubmissionRaw": 2640164,
+            "acRate": "63.9%"
+        },
+        "url": "https://leetcode.com/problems/unique-paths"
+    },
+    {
+        "name": "minimum path sum",
+        "difficulty": "medium",
+        "tags": [
+            "array",
+            "dynamic-programming",
+            "matrix"
+        ],
+        "ID": 64,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "1.1M",
+            "totalSubmission": "1.7M",
+            "totalAcceptedRaw": 1082701,
+            "totalSubmissionRaw": 1709906,
+            "acRate": "63.3%"
+        },
+        "url": "https://leetcode.com/problems/minimum-path-sum"
+    },
+    {
+        "name": "longest substring without repeating characters",
+        "difficulty": "medium",
+        "tags": [
+            "hash-table",
+            "string",
+            "sliding-window"
+        ],
+        "ID": 3,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "5.3M",
+            "totalSubmission": "15.5M",
+            "totalAcceptedRaw": 5308467,
+            "totalSubmissionRaw": 15453307,
+            "acRate": "34.4%"
+        },
+        "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+    },
+    {
+        "name": "max consecutive ones iii",
+        "difficulty": "medium",
+        "tags": [
+            "array",
+            "binary-search",
+            "sliding-window",
+            "prefix-sum"
+        ],
+        "ID": 1046,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "432.2K",
+            "totalSubmission": "689.6K",
+            "totalAcceptedRaw": 432161,
+            "totalSubmissionRaw": 689607,
+            "acRate": "62.7%"
+        },
+        "url": "https://leetcode.com/problems/max-consecutive-ones-iii"
+    },
+    {
+        "name": "maximize the confusion of an exam",
+        "difficulty": "medium",
+        "tags": [
+            "string",
+            "binary-search",
+            "sliding-window",
+            "prefix-sum"
+        ],
+        "ID": 2134,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "97.9K",
+            "totalSubmission": "145.9K",
+            "totalAcceptedRaw": 97871,
+            "totalSubmissionRaw": 145864,
+            "acRate": "67.1%"
+        },
+        "url": "https://leetcode.com/problems/maximize-the-confusion-of-an-exam"
+    },
+    {
+        "name": "longest nice subarray",
+        "difficulty": "medium",
+        "tags": [
+            "array",
+            "bit-manipulation",
+            "sliding-window"
+        ],
+        "ID": 2478,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "27.3K",
+            "totalSubmission": "54K",
+            "totalAcceptedRaw": 27277,
+            "totalSubmissionRaw": 54021,
+            "acRate": "50.5%"
+        },
+        "url": "https://leetcode.com/problems/longest-nice-subarray"
+    },
+    {
+        "name": "random pick with weight",
+        "difficulty": "medium",
+        "tags": [
+            "array",
+            "math",
+            "binary-search",
+            "prefix-sum",
+            "randomized"
+        ],
+        "ID": 912,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "408K",
+            "totalSubmission": "879.1K",
+            "totalAcceptedRaw": 408043,
+            "totalSubmissionRaw": 879117,
+            "acRate": "46.4%"
+        },
+        "url": "https://leetcode.com/problems/random-pick-with-weight"
+    },
+    {
+        "name": "word break",
+        "difficulty": "medium",
+        "tags": [
+            "array",
+            "hash-table",
+            "string",
+            "dynamic-programming",
+            "trie",
+            "memoization"
+        ],
+        "ID": 139,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "1.6M",
+            "totalSubmission": "3.4M",
+            "totalAcceptedRaw": 1573151,
+            "totalSubmissionRaw": 3384528,
+            "acRate": "46.5%"
+        },
+        "url": "https://leetcode.com/problems/word-break"
+    },
+    {
+        "name": "house robber",
+        "difficulty": "medium",
+        "tags": [
+            "array",
+            "dynamic-programming"
+        ],
+        "ID": 198,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "1.9M",
+            "totalSubmission": "3.8M",
+            "totalAcceptedRaw": 1927557,
+            "totalSubmissionRaw": 3835951,
+            "acRate": "50.2%"
+        },
+        "url": "https://leetcode.com/problems/house-robber"
+    },
+    {
+        "name": "coin change",
+        "difficulty": "medium",
+        "tags": [
+            "array",
+            "dynamic-programming",
+            "breadth-first-search"
+        ],
+        "ID": 322,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "1.6M",
+            "totalSubmission": "3.8M",
+            "totalAcceptedRaw": 1640955,
+            "totalSubmissionRaw": 3782826,
+            "acRate": "43.4%"
+        },
+        "url": "https://leetcode.com/problems/coin-change"
+    },
+    {
+        "name": "longest increasing subsequence",
+        "difficulty": "medium",
+        "tags": [
+            "array",
+            "binary-search",
+            "dynamic-programming"
+        ],
+        "ID": 300,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "1.5M",
+            "totalSubmission": "2.8M",
+            "totalAcceptedRaw": 1546473,
+            "totalSubmissionRaw": 2824377,
+            "acRate": "54.8%"
+        },
+        "url": "https://leetcode.com/problems/longest-increasing-subsequence"
+    },
+    {
+        "name": "longest common subsequence",
+        "difficulty": "medium",
+        "tags": [
+            "string",
+            "dynamic-programming"
+        ],
+        "ID": 1250,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "882.1K",
+            "totalSubmission": "1.5M",
+            "totalAcceptedRaw": 882150,
+            "totalSubmissionRaw": 1533624,
+            "acRate": "57.5%"
+        },
+        "url": "https://leetcode.com/problems/longest-common-subsequence"
+    },
+    {
+        "name": "lowest common ancestor of a binary search tree",
+        "difficulty": "medium",
+        "tags": [
+            "tree",
+            "depth-first-search",
+            "binary-search-tree",
+            "binary-tree"
+        ],
+        "ID": 235,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "1.4M",
+            "totalSubmission": "2.2M",
+            "totalAcceptedRaw": 1380281,
+            "totalSubmissionRaw": 2161205,
+            "acRate": "63.9%"
+        },
+        "url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree"
+    },
+    {
+        "name": "binary tree maximum path sum",
+        "difficulty": "hard",
+        "tags": [
+            "dynamic-programming",
+            "tree",
+            "depth-first-search",
+            "binary-tree"
+        ],
+        "ID": 124,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "1.1M",
+            "totalSubmission": "2.9M",
+            "totalAcceptedRaw": 1134528,
+            "totalSubmissionRaw": 2850651,
+            "acRate": "39.8%"
+        },
+        "url": "https://leetcode.com/problems/binary-tree-maximum-path-sum"
+    },
+    {
+        "name": "best time to buy and sell stock ii",
+        "difficulty": "medium",
+        "tags": [
+            "array",
+            "dynamic-programming",
+            "greedy"
+        ],
+        "ID": 122,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "1.7M",
+            "totalSubmission": "2.6M",
+            "totalAcceptedRaw": 1727292,
+            "totalSubmissionRaw": 2629572,
+            "acRate": "65.7%"
+        },
+        "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii"
+    },
+    {
+        "name": "jump game",
+        "difficulty": "medium",
+        "tags": [
+            "array",
+            "dynamic-programming",
+            "greedy"
+        ],
+        "ID": 55,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "1.7M",
+            "totalSubmission": "4.4M",
+            "totalAcceptedRaw": 1699897,
+            "totalSubmissionRaw": 4410431,
+            "acRate": "38.5%"
+        },
+        "url": "https://leetcode.com/problems/jump-game"
+    },
+    {
+        "name": "course schedule ii",
+        "difficulty": "medium",
+        "tags": [
+            "depth-first-search",
+            "breadth-first-search",
+            "graph",
+            "topological-sort"
+        ],
+        "ID": 210,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "949.4K",
+            "totalSubmission": "1.9M",
+            "totalAcceptedRaw": 949372,
+            "totalSubmissionRaw": 1905576,
+            "acRate": "49.8%"
+        },
+        "url": "https://leetcode.com/problems/course-schedule-ii"
+    },
+    {
+        "name": "path with maximum probability",
+        "difficulty": "medium",
+        "tags": [
+            "array",
+            "graph",
+            "heap-priority-queue",
+            "shortest-path"
+        ],
+        "ID": 1325,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "128.7K",
+            "totalSubmission": "235.8K",
+            "totalAcceptedRaw": 128738,
+            "totalSubmissionRaw": 235805,
+            "acRate": "54.6%"
+        },
+        "url": "https://leetcode.com/problems/path-with-maximum-probability"
+    },
+    {
+        "name": "path with minimum effort",
+        "difficulty": "medium",
+        "tags": [
+            "array",
+            "binary-search",
+            "depth-first-search",
+            "breadth-first-search",
+            "union-find",
+            "heap-priority-queue",
+            "matrix"
+        ],
+        "ID": 1753,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "231.3K",
+            "totalSubmission": "389.7K",
+            "totalAcceptedRaw": 231325,
+            "totalSubmissionRaw": 389732,
+            "acRate": "59.4%"
+        },
+        "url": "https://leetcode.com/problems/path-with-minimum-effort"
+    },
+    {
+        "name": "merge intervals",
+        "difficulty": "medium",
+        "tags": [
+            "array",
+            "sorting"
+        ],
+        "ID": 56,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "2.2M",
+            "totalSubmission": "4.7M",
+            "totalAcceptedRaw": 2186882,
+            "totalSubmissionRaw": 4665743,
+            "acRate": "46.9%"
+        },
+        "url": "https://leetcode.com/problems/merge-intervals"
+    },
+    {
+        "name": "insert interval",
+        "difficulty": "medium",
+        "tags": [
+            "array"
+        ],
+        "ID": 57,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "914.9K",
+            "totalSubmission": "2.3M",
+            "totalAcceptedRaw": 914890,
+            "totalSubmissionRaw": 2301206,
+            "acRate": "39.8%"
+        },
+        "url": "https://leetcode.com/problems/insert-interval"
+    },
+    {
+        "name": "interval list intersections",
+        "difficulty": "medium",
+        "tags": [
+            "array",
+            "two-pointers"
+        ],
+        "ID": 1028,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "381.3K",
+            "totalSubmission": "534.2K",
+            "totalAcceptedRaw": 381254,
+            "totalSubmissionRaw": 534190,
+            "acRate": "71.4%"
+        },
+        "url": "https://leetcode.com/problems/interval-list-intersections"
+    },
+    {
+        "name": "lru cache",
+        "difficulty": "medium",
+        "tags": [
+            "hash-table",
+            "linked-list",
+            "design",
+            "doubly-linked-list"
+        ],
+        "ID": 146,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "1.5M",
+            "totalSubmission": "3.6M",
+            "totalAcceptedRaw": 1517420,
+            "totalSubmissionRaw": 3613668,
+            "acRate": "42.0%"
+        },
+        "url": "https://leetcode.com/problems/lru-cache"
+    },
+    {
+        "name": "binary search tree iterator",
+        "difficulty": "medium",
+        "tags": [
+            "stack",
+            "tree",
+            "design",
+            "binary-search-tree",
+            "binary-tree",
+            "iterator"
+        ],
+        "ID": 173,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "741.5K",
+            "totalSubmission": "1M",
+            "totalAcceptedRaw": 741484,
+            "totalSubmissionRaw": 1039644,
+            "acRate": "71.3%"
+        },
+        "url": "https://leetcode.com/problems/binary-search-tree-iterator"
+    },
+    {
+        "name": "min stack",
+        "difficulty": "medium",
+        "tags": [
+            "stack",
+            "design"
+        ],
+        "ID": 155,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "1.5M",
+            "totalSubmission": "2.8M",
+            "totalAcceptedRaw": 1519351,
+            "totalSubmissionRaw": 2835721,
+            "acRate": "53.6%"
+        },
+        "url": "https://leetcode.com/problems/min-stack"
+    },
+    {
+        "name": "implement stack using queues",
+        "difficulty": "easy",
+        "tags": [
+            "stack",
+            "design",
+            "queue"
+        ],
+        "ID": 225,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "611.9K",
+            "totalSubmission": "973.5K",
+            "totalAcceptedRaw": 611937,
+            "totalSubmissionRaw": 973453,
+            "acRate": "62.9%"
+        },
+        "url": "https://leetcode.com/problems/implement-stack-using-queues"
+    },
+    {
+        "name": "letter combinations of a phone number",
+        "difficulty": "medium",
+        "tags": [
+            "hash-table",
+            "string",
+            "backtracking"
+        ],
+        "ID": 17,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "1.9M",
+            "totalSubmission": "3.1M",
+            "totalAcceptedRaw": 1872130,
+            "totalSubmissionRaw": 3143895,
+            "acRate": "59.5%"
+        },
+        "url": "https://leetcode.com/problems/letter-combinations-of-a-phone-number"
+    },
+    {
+        "name": "combination sum",
+        "difficulty": "medium",
+        "tags": [
+            "array",
+            "backtracking"
+        ],
+        "ID": 39,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "1.8M",
+            "totalSubmission": "2.5M",
+            "totalAcceptedRaw": 1758177,
+            "totalSubmissionRaw": 2488964,
+            "acRate": "70.6%"
+        },
+        "url": "https://leetcode.com/problems/combination-sum"
+    },
+    {
+        "name": "permutations",
+        "difficulty": "medium",
+        "tags": [
+            "array",
+            "backtracking"
+        ],
+        "ID": 46,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "1.9M",
+            "totalSubmission": "2.5M",
+            "totalAcceptedRaw": 1913843,
+            "totalSubmissionRaw": 2462034,
+            "acRate": "77.7%"
+        },
+        "url": "https://leetcode.com/problems/permutations"
+    },
+    {
+        "name": "subsets",
+        "difficulty": "medium",
+        "tags": [
+            "array",
+            "backtracking",
+            "bit-manipulation"
+        ],
+        "ID": 78,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "1.7M",
+            "totalSubmission": "2.2M",
+            "totalAcceptedRaw": 1694591,
+            "totalSubmissionRaw": 2207413,
+            "acRate": "76.8%"
+        },
+        "url": "https://leetcode.com/problems/subsets"
+    },
+    {
+        "name": "palindrome partitioning",
+        "difficulty": "medium",
+        "tags": [
+            "string",
+            "dynamic-programming",
+            "backtracking"
+        ],
+        "ID": 131,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "745.2K",
+            "totalSubmission": "1.1M",
+            "totalAcceptedRaw": 745170,
+            "totalSubmissionRaw": 1115234,
+            "acRate": "66.8%"
+        },
+        "url": "https://leetcode.com/problems/palindrome-partitioning"
+    },
+    {
+        "name": "implement trie (prefix tree)",
+        "difficulty": "medium",
+        "tags": [
+            "hash-table",
+            "string",
+            "design",
+            "trie"
+        ],
+        "ID": 208,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "953.7K",
+            "totalSubmission": "1.5M",
+            "totalAcceptedRaw": 953664,
+            "totalSubmissionRaw": 1479923,
+            "acRate": "64.4%"
+        },
+        "url": "https://leetcode.com/problems/implement-trie-prefix-tree"
+    },
+    {
+        "name": "basic calculator",
+        "difficulty": "hard",
+        "tags": [
+            "math",
+            "string",
+            "stack",
+            "recursion"
+        ],
+        "ID": 224,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "430.3K",
+            "totalSubmission": "1M",
+            "totalAcceptedRaw": 430300,
+            "totalSubmissionRaw": 1001007,
+            "acRate": "43.0%"
+        },
+        "url": "https://leetcode.com/problems/basic-calculator"
+    },
+    {
+        "name": "daily temperatures",
+        "difficulty": "medium",
+        "tags": [
+            "array",
+            "stack",
+            "monotonic-stack"
+        ],
+        "ID": 739,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "776.5K",
+            "totalSubmission": "1.2M",
+            "totalAcceptedRaw": 776532,
+            "totalSubmissionRaw": 1178116,
+            "acRate": "65.9%"
+        },
+        "url": "https://leetcode.com/problems/daily-temperatures"
+    },
+    {
+        "name": "online stock span",
+        "difficulty": "medium",
+        "tags": [
+            "stack",
+            "design",
+            "monotonic-stack",
+            "data-stream"
+        ],
+        "ID": 937,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "279K",
+            "totalSubmission": "425.3K",
+            "totalAcceptedRaw": 279028,
+            "totalSubmissionRaw": 425289,
+            "acRate": "65.6%"
+        },
+        "url": "https://leetcode.com/problems/online-stock-span"
+    },
+    {
+        "name": "partition equal subset sum",
+        "difficulty": "medium",
+        "tags": [
+            "array",
+            "dynamic-programming"
+        ],
+        "ID": 416,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "756.4K",
+            "totalSubmission": "1.6M",
+            "totalAcceptedRaw": 756357,
+            "totalSubmissionRaw": 1636389,
+            "acRate": "46.2%"
+        },
+        "url": "https://leetcode.com/problems/partition-equal-subset-sum"
+    },
+    {
+        "name": "redundant connection",
+        "difficulty": "medium",
+        "tags": [
+            "depth-first-search",
+            "breadth-first-search",
+            "union-find",
+            "graph"
+        ],
+        "ID": 684,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "328.2K",
+            "totalSubmission": "524K",
+            "totalAcceptedRaw": 328176,
+            "totalSubmissionRaw": 524043,
+            "acRate": "62.6%"
+        },
+        "url": "https://leetcode.com/problems/redundant-connection"
+    },
+    {
+        "name": "find median from data stream",
+        "difficulty": "hard",
+        "tags": [
+            "two-pointers",
+            "design",
+            "sorting",
+            "heap-priority-queue",
+            "data-stream"
+        ],
+        "ID": 295,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "727.5K",
+            "totalSubmission": "1.4M",
+            "totalAcceptedRaw": 727538,
+            "totalSubmissionRaw": 1406753,
+            "acRate": "51.7%"
+        },
+        "url": "https://leetcode.com/problems/find-median-from-data-stream"
+    },
+    {
+        "name": "trapping rain water",
+        "difficulty": "hard",
+        "tags": [
+            "array",
+            "two-pointers",
+            "dynamic-programming",
+            "stack",
+            "monotonic-stack"
+        ],
+        "ID": 42,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "1.8M",
+            "totalSubmission": "3M",
+            "totalAcceptedRaw": 1825037,
+            "totalSubmissionRaw": 3017847,
+            "acRate": "60.5%"
+        },
+        "url": "https://leetcode.com/problems/trapping-rain-water"
+    },
+    {
+        "name": "max points on a line",
+        "difficulty": "hard",
+        "tags": [
+            "array",
+            "hash-table",
+            "math",
+            "geometry"
+        ],
+        "ID": 149,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "370.9K",
+            "totalSubmission": "1.4M",
+            "totalAcceptedRaw": 370897,
+            "totalSubmissionRaw": 1416323,
+            "acRate": "26.2%"
+        },
+        "url": "https://leetcode.com/problems/max-points-on-a-line"
+    },
+    {
+        "name": "serialize and deserialize binary tree",
+        "difficulty": "hard",
+        "tags": [
+            "string",
+            "tree",
+            "depth-first-search",
+            "breadth-first-search",
+            "design",
+            "binary-tree"
+        ],
+        "ID": 297,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "820.8K",
+            "totalSubmission": "1.5M",
+            "totalAcceptedRaw": 820795,
+            "totalSubmissionRaw": 1457845,
+            "acRate": "56.3%"
+        },
+        "url": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree"
+    },
+    {
+        "name": "maximum profit in job scheduling",
+        "difficulty": "hard",
+        "tags": [
+            "array",
+            "binary-search",
+            "dynamic-programming",
+            "sorting"
+        ],
+        "ID": 1352,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "283.1K",
+            "totalSubmission": "516.1K",
+            "totalAcceptedRaw": 283138,
+            "totalSubmissionRaw": 516086,
+            "acRate": "54.9%"
+        },
+        "url": "https://leetcode.com/problems/maximum-profit-in-job-scheduling"
+    },
+    {
+        "name": "sliding window maximum",
+        "difficulty": "hard",
+        "tags": [
+            "array",
+            "queue",
+            "sliding-window",
+            "heap-priority-queue",
+            "monotonic-queue"
+        ],
+        "ID": 239,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "955.4K",
+            "totalSubmission": "2.1M",
+            "totalAcceptedRaw": 955417,
+            "totalSubmissionRaw": 2053231,
+            "acRate": "46.5%"
+        },
+        "url": "https://leetcode.com/problems/sliding-window-maximum"
+    },
+    {
+        "name": "edit distance",
+        "difficulty": "medium",
+        "tags": [
+            "string",
+            "dynamic-programming"
+        ],
+        "ID": 72,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "780.7K",
+            "totalSubmission": "1.4M",
+            "totalAcceptedRaw": 780743,
+            "totalSubmissionRaw": 1397353,
+            "acRate": "55.9%"
+        },
+        "url": "https://leetcode.com/problems/edit-distance"
+    },
+    {
+        "name": "largest rectangle in histogram",
+        "difficulty": "hard",
+        "tags": [
+            "array",
+            "stack",
+            "monotonic-stack"
+        ],
+        "ID": 84,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "805.2K",
+            "totalSubmission": "1.8M",
+            "totalAcceptedRaw": 805224,
+            "totalSubmissionRaw": 1836823,
+            "acRate": "43.8%"
+        },
+        "url": "https://leetcode.com/problems/largest-rectangle-in-histogram"
+    },
+    {
+        "name": "number of atoms",
+        "difficulty": "hard",
+        "tags": [
+            "hash-table",
+            "string",
+            "stack",
+            "sorting"
+        ],
+        "ID": 726,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "57.2K",
+            "totalSubmission": "108.7K",
+            "totalAcceptedRaw": 57239,
+            "totalSubmissionRaw": 108717,
+            "acRate": "52.6%"
+        },
+        "url": "https://leetcode.com/problems/number-of-atoms"
+    },
+    {
+        "name": "lfu cache",
+        "difficulty": "hard",
+        "tags": [
+            "hash-table",
+            "linked-list",
+            "design",
+            "doubly-linked-list"
+        ],
+        "ID": 460,
+        "companies": [
+            "google",
+            "facebook",
+            "microsoft",
+            "amazon",
+            "bloomberg",
+            "uber",
+            "linkedin",
+            "twitter",
+            "apple",
+            "snapchat"
+        ],
+        "category": "algorithms",
+        "stats": {
+            "totalAccepted": "236.7K",
+            "totalSubmission": "539.8K",
+            "totalAcceptedRaw": 236690,
+            "totalSubmissionRaw": 539779,
+            "acRate": "43.8%"
+        },
+        "url": "https://leetcode.com/problems/lfu-cache"
+    }
+]
