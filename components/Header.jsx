@@ -4,6 +4,7 @@ import {
 	InstagramLogo,
 	TiktokLogo,
 } from "@phosphor-icons/react/dist/ssr";
+import maang from "/public/maang.png";
 
 export default function (props) {
 	return (
@@ -39,40 +40,20 @@ export default function (props) {
 								{/* Avatar Group */}
 								<div className="flex justify-center -space-x-3">
 									<img
-										className="inline-block h-8 w-8 rounded-full ring-2 ring-white dark:ring-gray-800"
-										src="https://images.unsplash.com/photo-1568602471122-7832951cc4c5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=facearea&facepad=2&w=300&h=300&q=80"
+										className="inline-block h-8 w-full ring-2 ring-white dark:ring-gray-800"
+										src={maang.src}
 										alt="Image Description"
 									/>
-									<img
-										className="inline-block h-8 w-8 rounded-full ring-2 ring-white dark:ring-gray-800"
-										src="https://images.unsplash.com/photo-1531927557220-a9e23c1e4794?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=facearea&facepad=2&w=300&h=300&q=80"
-										alt="Image Description"
-									/>
-									<img
-										className="inline-block h-8 w-8 rounded-full ring-2 ring-white dark:ring-gray-800"
-										src="https://images.unsplash.com/photo-1541101767792-f9b2b1c4f127?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&&auto=format&fit=facearea&facepad=3&w=300&h=300&q=80"
-										alt="Image Description"
-									/>
-									<img
-										className="inline-block h-8 w-8 rounded-full ring-2 ring-white dark:ring-gray-800"
-										src="https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=facearea&facepad=2&w=300&h=300&q=80"
-										alt="Image Description"
-									/>
-									<span className="inline-flex items-center justify-center h-8 w-8 rounded-full ring-2 ring-white bg-gray-800 dark:bg-gray-900 dark:ring-gray-800">
-										<span className="text-xs font-medium leading-none text-white uppercase">
-											250+
-										</span>
-									</span>
 								</div>
 								{/* End Avatar Group */}
 							</div>
 							<div className="border-t sm:border-t-0 sm:border-s border-gray-200 w-32 h-px sm:w-auto sm:h-full mx-auto sm:mx-0" />
 							<div className="pt-5 sm:pt-0 sm:ps-5">
 								<div className="text-lg font-semibold text-gray-800 dark:text-gray-200">
-									Trusted by Many
+									Asked at MAANG
 								</div>
 								<div className="text-sm text-gray-500">
-									Rated best over 500 reviews
+									and other top 50 tech companies
 								</div>
 							</div>
 						</div>
