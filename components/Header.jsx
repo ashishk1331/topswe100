@@ -38,9 +38,9 @@ export default function (props) {
 						<div className="sm:flex sm:justify-center sm:items-center text-center sm:text-start">
 							<div className="flex-shrink-0 pb-5 sm:flex sm:pb-0 sm:pe-5">
 								{/* Avatar Group */}
-								<div className="flex justify-center -space-x-3">
+								<div className="flex justify-center h-8">
 									<img
-										className="inline-block h-8 w-full ring-2 ring-white dark:ring-gray-800"
+										className="inline-block h-full object-cover"
 										src={maang.src}
 										alt="Image Description"
 									/>
